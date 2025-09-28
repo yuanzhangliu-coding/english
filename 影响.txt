@@ -3,7 +3,6 @@
 Affect 
 Impact  
 Influence 
-Hit
 
 1.Affect 
 直接作用于​​某人或某物,通常是造成​物理的、生理的或情感上的​影响
@@ -17,7 +16,7 @@ The hot sun affected the ice cream, it melted.
 Coffe affects my hearts, It beats faster.
 咖啡（因）直接让我的心脏功能（果）变了（心跳加速）。
 
-​​The scary movie affectedthe child. He had a nightmare
+​​The scary movie affected the child. He had a nightmare
 那部恐怖电影​​影响​​了小孩。他做了噩梦
 
 简单来说：
@@ -25,4 +24,41 @@ Coffe affects my hearts, It beats faster.
 
 
 2.Impact
-The new policy will impcat the economy.
+也可以翻译成中文当中的影响，不过它的语气更强一些，通常是指对社会 商业 环境等宏观上的影响。
+the new policy had a significant impcat on the economy.
+The recession impacted sales cross the entire industry.
+
+
+3.Influence
+Influence 这种影响是 一种 间接的 潜移默化的 悄无声息的 润物细无声的方式 影响
+到某人的思想 行为 决策。
+
+My parents influenced my decisionn to become a doctor.
+
+Don't let others affect your mood.
+Don't let others influence your decision.
+
+
+如果你再 英文中如果你想表达“影响”的方式大概有三种：Influence Impact Affect.
+
+​​Influence​​
+Influence 指的是一种潜移默化的、无形的影响，它对态度、思想和习惯产生影响。
+​​例: A good teacher can positively influence a child's future.​​
+（一位好老师能积极影响一个孩子的未来。）
+
+​​Impact​​
+多作名词，指宏观上的、冲击性的影响，例如对政治、经济或商业价值的影响。
+impact这个词语其实来自于物理，它指的两个物体相互的碰撞和冲击
+我们来看两个例子
+
+
+​​例: The technology has made a significant impact on our daily lives.​​
+（这项科技对我们的日常生活产生了重大影响。）
+
+
+
+
+​​Affect​​
+直接作用于某人或某物，通常是造成物理的、生理的或情感上的影响。
+​​例: The noise outside affected my ability to concentrate.​​
+（外面的噪音影响了我集中注意力的能力。）
